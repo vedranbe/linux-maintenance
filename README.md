@@ -1,4 +1,4 @@
-# 🛠 Linux Mint System Maintenance Tool
+# 🛠 Linux System Maintenance Tool
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu--based-red)  
 ![Desktop](https://img.shields.io/badge/Desktop-GNOME-4A86CF?logo=gnome&logoColor=white)   
